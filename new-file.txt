@@ -1,0 +1,3 @@
+some contents in this file
+
+bin/
